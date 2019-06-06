@@ -2,7 +2,7 @@ package main
 
 import (
 	"encoding/json"
-	"gitlab.com/lyokum/update"
+	"github.com/lyokum/update"
 	"io/ioutil"
 	"log"
 	"net/http"
